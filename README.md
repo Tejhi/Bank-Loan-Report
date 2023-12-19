@@ -81,3 +81,15 @@ Acknowledging the need for a comprehensive view of essential information within 
 
 #### Objective Accomplishments
 The primary objective of the Details Dashboard was successfully achieved by providing a comprehensive and user-friendly interface for accessing vital loan data. It served as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+
+### Insights
+1. Total loan applications were 38.6K, up 6.9% month-over-month (MOM). This indicates growing demand for loans.
+2. 13.8% of loan applications were classified as "bad loans". The majority (86.2%) were "good loans". This suggests relatively low bad loan risk overall.
+3. Total loan amount funded was $435.8M for good loans and $65.5M for bad loans. Average interest rates were 12% for good loans and 15.1% for bad loans.
+4. By month, funded loan amounts peaked in January at $116M and declined later in the year. This could indicate seasonal variation in loan demand.  
+5. By state, over 60% of funded loan amount came from one state. This points to geographic concentration risk.
+6. By loan term, 36 month loans were most common, followed by 60 month loans. This shows consumer preference for shorter-term loans.  
+7. Debt consolidation was the most common loan purpose (32%), followed by credit card refinancing (18%). This suggests consumers are using loans to manage existing debts.
+8. More funded amount comes from mortgage holders ($219M) compared to renters ($186M). This indicates homeowners are taking out larger loans than renters on average.
+
+
